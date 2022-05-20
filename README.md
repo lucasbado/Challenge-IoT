@@ -12,5 +12,9 @@ O nome dos alunos segue abaixo:
 86818  - Raissa Iorio da Silva Oliveira
 86664 - Thiago Vazquez Enninger
 
+O arquivo "reconhecedor.zip" é o interpretador do python caso tenha algum ´problema com a instalação das libs.
+
 Segue o link do Youtube:
 https://youtu.be/UGDlSCc0HBA
+
+
